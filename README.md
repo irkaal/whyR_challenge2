@@ -2,7 +2,7 @@
 
 For this challenge, we used historical data of some comments from Hacker News to create meaningful segments of users.
 
-[![](http://whyr.pl/foundation/images/fulls/whyr2020/hackathon/hackathon2020.jpg)](http://whyr.pl/foundation/2020/hackathon/)
+[![](hackathon2020.webp)](http://whyr.pl/foundation/2020/hackathon/)
 
 > ## Challenge 2 - “Segmentation”
 >  
